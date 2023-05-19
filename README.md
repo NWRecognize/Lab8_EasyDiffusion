@@ -17,9 +17,12 @@
     3) Школьный класс для мыльных пузырей
     ![protogen3](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/fd604b5d-c61f-42e6-ab68-f10f2d780eb2)
 3. Dreamlike_photoreal-2.0
-    1) Лучше синица в руках, чем журавль в рукаве
+    1) Лучше синица в руках, чем журавль в небе
     ![dreamlike_photoreal1](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/114734da-a2be-4b62-b923-70f9a540f421)
     2) Фломастер рисует, танцуя на бумаге
     ![dreamlike_photoreal2](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/ed737153-e34e-4d66-a9ed-1b69516ab9ba)
     3) Богатый программист
-    ![dreamlike_photoreal3](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/986ba999-fd4a-4283-bf9a-7e07c9777bfc)
+    ![dreamlike_photoreal3](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/986ba999-fd4a-4283-bf9a-7e07c9777bfc)  
+<h2>Вывод: Есть некоторые хорошие попадания по запросам, а есть те, которые нейросеть сгенерировала плохо.
+Также многое зависит от модели, например Stable Diffusion очень плохо генерирует изображение в сравнении, с той же ProtoGen.  
+Для генерации изображений с людьми и лицами лучше ипользовать dreamlike_photoreal и подобные</h2>
