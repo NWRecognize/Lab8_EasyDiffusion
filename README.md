@@ -25,7 +25,7 @@
     3) Богатый программист
     ![dreamlike_photoreal3](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/986ba999-fd4a-4283-bf9a-7e07c9777bfc)  
     
-Вот для сравнения как выглядит один запрос, при генерации на разных моделях:
+Вот для сравнения как выглядит один запрос, при генерации на разных моделях:  
 ProtoGen_X3.4
 ![frodo_protogen](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/8342f6a7-3c32-400b-bcac-52fa75692aec)
 Dreamlike_photoreal_2.0
