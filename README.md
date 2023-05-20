@@ -24,6 +24,12 @@
     ![dreamlike_photoreal2](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/ed737153-e34e-4d66-a9ed-1b69516ab9ba)
     3) Богатый программист
     ![dreamlike_photoreal3](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/986ba999-fd4a-4283-bf9a-7e07c9777bfc)  
+    
+Вот для сравнения как выглядит один запрос, при генерации на разных моделях:
+ProtoGen_X3.4
+![frodo_protogen](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/8342f6a7-3c32-400b-bcac-52fa75692aec)
+Dreamlike_photoreal_2.0
+![frodo_photoreal2](https://github.com/NWRecognize/Lab8_EasyDiffusion/assets/118212881/f93b7d8c-95e5-47b5-8700-7f3d81f04233)
 <h2>Вывод: Есть некоторые хорошие попадания по запросам, а есть те, которые нейросеть сгенерировала плохо.<br>
 Так же многое зависит от модели, например Stable Diffusion очень плохо генерирует изображения в сравнении, с той же ProtoGen.<br>
 Для генерации изображений с людьми и лицами лучше ипользовать dreamlike_photoreal и подобные</h2>
